@@ -14,7 +14,6 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1>Find Unique Instances of Repeated Strings or Numbers</h1>
         <RepeatedStrings />
       </main>
     </div>
